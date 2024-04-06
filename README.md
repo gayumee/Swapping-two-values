@@ -18,9 +18,22 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
-
-
+```
+#Developed by: T. Gayathri
+#Register No: 212223100007
+vijay = input()
+surya = input()
+ball = vijay
+vijay = surya
+surya = ball
+print("Swapped values are:",vijay, surya)
+```
+## OUTPUT 
+```
+greenball
+whiteball
+Swapped values are: whiteball greenball
+```
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
