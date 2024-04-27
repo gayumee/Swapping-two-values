@@ -29,11 +29,8 @@ surya = ball
 print("Swapped values are:",vijay, surya)
 ```
 ## OUTPUT 
-```
-greenball
-whiteball
-Swapped values are: whiteball greenball
-```
+![image](https://github.com/gayumee/Swapping-two-values/assets/149037327/06198163-31e4-40f7-90a5-74757c979d91)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
